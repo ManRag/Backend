@@ -1,0 +1,20 @@
+{
+  "name": "bc_make",
+  "version": "0.0.0",
+  "description": "First backend App to Deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "first",
+    "time"
+  ],
+  "author": "Manmohan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
